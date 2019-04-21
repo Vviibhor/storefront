@@ -1,0 +1,22 @@
+:root{
+  --mainBlue:#1f1fc5;
+  --lightBlue:#92cff3;
+  --mainWhite:#f3f3f3;
+  --mainDark:#232528;
+  --mainYellow:#ffa400;
+}
+body{
+  font-family:'Orbitron', sans-serif!important;
+ 
+  background:var(--mainWhite)!important;
+  color:var(--mainWhite)!important;
+  font-weight:400;
+  font-size: 16px;
+}
+
+.text-title{
+  font-family: 'Audiowide', cursive;
+  letter-spacing: 0.3rem;
+  text-transform:uppercase;
+}
+
